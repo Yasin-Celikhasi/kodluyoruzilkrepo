@@ -21,3 +21,5 @@ Pull requestler kabul edilir. Büyük değiiklikler için, lütfen önce neyi de
 
 ## License
 MIT
+
+![Resim](C:\Users\Yasin\Desktop\Yazılım\Front-End_yasin\GIT)
